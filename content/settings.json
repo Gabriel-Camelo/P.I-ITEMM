@@ -1,0 +1,44 @@
+{
+  "siteMetadata": {
+    "language": "pt-br",
+    "siteUrl": "",
+    "title": "ITEMM+",
+    "titleTemplate": "default",
+    "description": "Plataforma ITEMM+",
+    "author": "Gabriel Camelo/ITEMM",
+    "avatar": "../content/images/plus48x48.png",
+    "bio": "ITEMM+",
+    "social": {
+      "behance": "https://behance.com",
+      "github": "https://github.com/konstantinmuenster",
+      "medium": "https://konstantinmuenster.medium.com",
+      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
+      "mail": "mailto:mail@konstantin.digital"
+    }
+  },
+  "siteConfiguration": {
+    "logo": { "text": "ITEMM+", "image": "../content/images/logo-itemm.png" },
+    "navigation": {
+      "header": [
+        { "label": "About", "url": "/#about" },
+        { "label": "Blog", "url": "/blog" },
+        { "label": "Features", "url": "/#features" },
+        { "label": "Github", "url": "/#github" }
+      ],
+      "ctaButton": {
+        "openNewTab": true,
+        "label": "Resume",
+        "url": "/resume.pdf"
+      },
+      "footer": [
+        { "label": "Privacy", "url": "/privacy" },
+        { "label": "Imprint", "url": "/imprint" }
+      ]
+    },
+    "featureToggles": {
+      "useDarkModeAsDefault": false,
+      "useDarkModeBasedOnUsersPreference": false,
+      "useCookieBar": false
+    }
+  }
+}
